@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm FRANCIS NJuGUNA</h1>
+<h1 align="center">Hi 👋, I'm FRANCIS NJUGUNA</h1>
 <h3 align="center">A passionate full-stack web developer from KENYA</h3>
 <img align="rigt" alt="coding" width"400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
